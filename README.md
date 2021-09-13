@@ -1,4 +1,6 @@
-## Student at Aston University looking for a Graduate roles in 2021 🎓
+## Graduate Test Engineer :construction_worker::hammer_and_wrench:
+
+**Studied:** Computer Science at Aston University 🎓
 
 **Final Year Project:** Bringing EV vehicle ownership closer to the user from the power of their smartphones. :battery::oncoming_automobile::telephone_receiver:	
 
